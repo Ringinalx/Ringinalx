@@ -1,0 +1,9 @@
+# Query: probs
+# ContextLines: 1
+
+1 result - 1 file
+
+my-appstore\components\awistore\NewProductForm.js:
+  27  
+  28:     props.onAddProduct(productData);
+  29    }

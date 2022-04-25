@@ -1,0 +1,25 @@
+{
+  "name": "my-appstore",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "cards": "^2.0.1",
+    "mongodb": "^4.5.0",
+    "next": "12.1.4",
+    "react": "18.0.0",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-dom": "18.0.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "eslint": "8.13.0",
+    "eslint-config-next": "12.1.4"
+  }
+}
